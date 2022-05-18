@@ -1,0 +1,119 @@
+/*CSS DOCUMENT*/
+
+html, body, div, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit;}
+
+img {
+    width: 100%;
+    padding: 1em 0em 0em;
+}
+
+body {
+    background-color: #4A0404;
+}
+
+header{
+    background-color:  #4A0404;
+}
+
+
+
+nav ul li a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+nav ul li a:hover {
+    color: red; 
+}
+
+nav ul{
+    padding: 0re, 3rem, 0rem;
+}
+
+nav ul li{    
+    
+    display: inline-block;
+    list-style-type: none;
+    font-family: poppins, sans-serif;  
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 1rem, 1rem, 1rem;
+    margin-right: 3rem;
+
+}
+    
+h1 {
+    display: block;
+	padding: 0rem 0rem 0rem;
+    width:10em;
+    font-size: 3em;
+    font-family: poppins, sans-serif;  
+    font-weight: 500;  
+    font-style: normal;
+    line-height: 110%
+}
+
+h2 {
+	color:red; 
+	font-size: 2em;
+	padding: 1rem 0rem 0rem;
+    font-family: poppins, sans-serif;  
+    font-weight: 500;  
+    font-style: bold;
+    text-transform: uppercase;
+}
+
+h3 {
+	margin: 0rem 0rem 1rem; 
+	padding-top: 1.5rem;
+	font-size: 1.5em; 
+    font-family: poppins, sans-serif;  
+    font-weight: 600;  
+    font-style: normal;
+	text-transform: uppercase;
+	letter-spacing: 0.07em; 
+}
+h4 {
+	margin: 0rem 0rem 0rem; 
+	font-size: 1em;
+    font-family: poppins, sans-serif;  
+    font-weight: 600;  
+    font-style: normal;
+	letter-spacing: 0.07em; 
+}
+
+body {
+	background-color:  #4A0404; 
+	color: whitesmoke;  
+	line-height: 160%; 
+	font-family: poppins, sans-serif;  
+    font-weight: 300;  
+    font-size: 0.5rem
+    font-style: normal;
+    padding: 0.5rem 2rem 0.5rem;
+}
+
+p{
+    color: whitesmoke;  
+	line-height: 160%; 
+	font-family: poppins, sans-serif;  
+    font-weight: 300;  
+    font-style: normal;
+    padding: 0.5rem 0rem 0.5rem;
+}
+
+ p ul li{    
+    
+    display: inline-block;
+    list-style-type: none;
+    font-family: poppins, sans-serif;  
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 1rem;
+    font-weight: 600;
+    padding: 2rem, 2rem, 2rem;
+
+}
